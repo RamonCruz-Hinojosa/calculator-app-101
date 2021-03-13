@@ -15,7 +15,7 @@ Inside this repo you'll find HTML, CSS, and JS files that come together to build
 1. After that, make sure each of your `button`s have the same `onclick` attribute as the `add` and `subtract` buttons. Just copy/paste into each. This will allow your operations to be used!
 1. Go back to the web page view of the Calculator and see how it's working. Try adding, subtracting, multiplying, dividing, and modulusing to see what's missing so you can fix it.
 
-> *HINT: the comments throughout the code are left for you to read and learn from.*
+> _HINT: the comments throughout the code are left for you to read and learn from._
 
 ## What's Missing?
 
@@ -28,12 +28,12 @@ Inside this repo you'll find HTML, CSS, and JS files that come together to build
 
 ## To Turn This Assignment In
 
-1. Since you forked this repo you'll need to `git status, add, commit, push` the same way you've done before but now you'll create a Pull Request (*PR*). 
+1. Since you forked this repo you'll need to `git status, add, commit, push` the same way you've done before but now you'll create a Pull Request (_PR_).
 
-  > *NOTE: A PR is a request to merge your code changes into the original code base. This is what you'd normally do in your day job so that others can see the work you did for the day.*
+> _NOTE: A PR is a request to merge your code changes into the original code base. This is what you'd normally do in your day job so that others can see the work you did for the day._
 
 1. Once you've made the PR you'll copy/paste the URL of the PR for your instructor to grade.
 
-*******
+---
 
 <iframe src="https://player.vimeo.com/video/395247060" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
